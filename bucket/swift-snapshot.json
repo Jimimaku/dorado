@@ -2,15 +2,15 @@
     "homepage": "https://www.swift.org/",
     "description": "The Swift Programming Language (Snapshot build)",
     "license": "Apache-2.0",
-    "version": "snapshot-swift-DEVELOPMENT-SNAPSHOT-2026-09-21-a",
+    "version": "snapshot-2026-09-21-a",
     "architecture": {
         "64bit": {
-            "url": "https://download.swift.org/development/windows10/swift-DEVELOPMENT-SNAPSHOT-swift-DEVELOPMENT-SNAPSHOT-2026-09-21-a/swift-DEVELOPMENT-SNAPSHOT-swift-DEVELOPMENT-SNAPSHOT-2026-09-21-a-windows10.exe",
-            "hash": "8193d4ad2e6463944f67db9517bbfb3328c6f54d61475c9743e6b6b49f3100d4"
+            "url": "https://download.swift.org/development/windows10/swift-DEVELOPMENT-SNAPSHOT-2026-09-21-a/swift-DEVELOPMENT-SNAPSHOT-2026-09-21-a-windows10.exe",
+            "hash": "5d995cb5316f4dcb0e05fa3badc44934e4b8ea164c3227b94c77ad0a8748f414"
         },
         "arm64": {
-            "url": "https://download.swift.org/development/windows10-arm64/swift-DEVELOPMENT-SNAPSHOT-swift-DEVELOPMENT-SNAPSHOT-2026-09-21-a/swift-DEVELOPMENT-SNAPSHOT-swift-DEVELOPMENT-SNAPSHOT-2026-09-21-a-windows10-arm64.exe",
-            "hash": "49525c562fa25aacaa7e3ac9b4688c969f71ee2d7628efd04d2c368f3e60f973"
+            "url": "https://download.swift.org/development/windows10-arm64/swift-DEVELOPMENT-SNAPSHOT-2026-09-21-a/swift-DEVELOPMENT-SNAPSHOT-2026-09-21-a-windows10-arm64.exe",
+            "hash": "0fa010398d21f6cde8b6b6b79b23359b6ce6fc853c121b4bafa3fb37c67ceff9"
         }
     },
     "depends": "main/wixtoolset",
